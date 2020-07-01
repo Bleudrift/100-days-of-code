@@ -10,3 +10,11 @@
 **Link to work:** [Tribute Page](https://codepen.io/bleudrift/pen/vYLWKxG)
 
 **Cool resources / links: [Flexbox Froggy]  https://flexboxfroggy.com/
+
+
+### Day 2: July 1, 2020
+##### Git, Github, Visual Studio Code, Some CSS
+
+**Today's Progress**: Watched several videos on Git and Github, and one on VSC.  Tried to set up Git on Mac. 
+
+**Thoughts:** Trying to wrap head around how Git, Githum, VSC, CodePen etc. work together. The info that's available online is inscrutable and usually assumes some prior knowledge.  Spent way too much time on this -- my head is spinning. Will leave for later. Did a little CSS.
