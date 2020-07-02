@@ -37,7 +37,7 @@ Worked through Flexbox Froggy and the CSS Games.
 Did well on all of them except for this problem which I could not figure out:
 <br>
 <br>
-<img src="images/froggrid.png" width="400" auto>
+<img src="images/froggridrow.png" width="400" auto>
 
 
 
