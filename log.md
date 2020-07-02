@@ -3,13 +3,13 @@
 ### Day 1: June 30, 2020
 ##### HTML and CSS
 
-**Today's Progress**: Finished Tribute page project. 
+**Today's Progress:** Finished Tribute Page. 
 
 **Thoughts:** Although I have been working in FreeCodeCamp for almost 10 days, I officially launched my 100 days today.  Starting to get hang of how CSS and HTML work.  Figured out how to do the CSS for a:hover for a class -- that was exciting.  Really need to figure out Git and GitHub, as well as CodePen and how they interact. It's quite difficult thosto find info on how to use the features.
 
-**Link to work:** [Tribute Page](https://codepen.io/bleudrift/pen/vYLWKxG)
+**Link to Work:** [Tribute Page](https://codepen.io/bleudrift/pen/vYLWKxG)
 
-**Cool resources / links: [Flexbox Froggy](https://flexboxfroggy.com/)
+**Helpful Links / Resources** [Flexbox Froggy](https://flexboxfroggy.com/)
 <br>
 <br>
 ***
@@ -21,7 +21,7 @@
 
 **Today's Progress**: Watched several videos on Git and Github, and one on VSC.  Tried to set up Git on Mac. 
 
-**Thoughts:** Trying to wrap head around how Git, Githum, VSC, CodePen etc. work together. The info that's available online is inscrutable and usually assumes some prior knowledge.  Spent way too much time on this -- my head is spinning. Will leave for later. Did a little CSS.
+**Thoughts:** Trying to wrap head around how Git, Github, VSC, CodePen etc. work together. The info that's available online is inscrutable and usually assumes some prior knowledge.  Spent way too much time on this -- my head is spinning. Will leave for later. Did a little CSS.
 <br>
 <br>
 ***
@@ -32,9 +32,9 @@
 ### Day 3: July 2, 2020
 ##### CSS Flexbox, CSS Grid
 
-**Today's Progress**: 
-Worked through Flexbox Froggy and the CSS Games 
-Did well on all of them except for this problem which I could not figure out
+**Today's Progress:**
+Worked through Flexbox Froggy and the CSS Games. 
+Did well on all of them except for this problem which I could not figure out:
 <br>
 <br>
 <img src="images/froggrid.png" width="400" auto>
@@ -48,6 +48,6 @@ Did well on all of them except for this problem which I could not figure out
 **Thoughts:** 
 
 
-**Helpful Links / Resources**
+**Helpful Links / Resources:**
 * [Mastering Markdown in GitHub](https://guides.github.com/features/mastering-markdown/#examples)
 * [Insert images into GitHub Readme - YouTube video by TanUv90](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
