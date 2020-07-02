@@ -9,7 +9,11 @@
 
 **Link to work:** [Tribute Page](https://codepen.io/bleudrift/pen/vYLWKxG)
 
-**Cool resources / links: [Flexbox Froggy]  https://flexboxfroggy.com/
+**Cool resources / links: [Flexbox Froggy](https://flexboxfroggy.com/)
+<br>
+<br>
+***
+
 
 
 ### Day 2: July 1, 2020
@@ -18,3 +22,32 @@
 **Today's Progress**: Watched several videos on Git and Github, and one on VSC.  Tried to set up Git on Mac. 
 
 **Thoughts:** Trying to wrap head around how Git, Githum, VSC, CodePen etc. work together. The info that's available online is inscrutable and usually assumes some prior knowledge.  Spent way too much time on this -- my head is spinning. Will leave for later. Did a little CSS.
+<br>
+<br>
+***
+
+
+
+
+### Day 3: July 2, 2020
+##### CSS Flexbox, CSS Grid
+
+**Today's Progress**: 
+Worked through Flexbox Froggy and the CSS Games 
+Did well on all of them except for this problem which I could not figure out
+<br>
+<br>
+<img src="images/froggrid.png" width="400" auto>
+
+
+
+
+
+
+
+**Thoughts:** 
+
+
+**Helpful Links / Resources**
+* [Mastering Markdown in GitHub](https://guides.github.com/features/mastering-markdown/#examples)
+* [Insert images into GitHub Readme - YouTube video by TanUv90](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
