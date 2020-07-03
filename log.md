@@ -51,3 +51,22 @@ Did well on all of them except for this problem which I could not figure out:
 **Helpful Links / Resources:**
 * [Mastering Markdown in GitHub](https://guides.github.com/features/mastering-markdown/#examples)
 * [Insert images into GitHub Readme - YouTube video by TanUv90](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Grid Garden on Codepip](https://codepip.com/games/grid-garden/)
+<br>
+
+
+***
+
+
+### Day 4: July 3, 2020
+##### CSS Animation, Survey form started
+
+**Today's Progress:**
+Tried to code some graphics and animation on my own by looking at examples on Codepen. That didn't work too well, so I went back to Freecodecamp to follow the instructions and encountered some difficulty with that as well.  So, I stopped banging my head against the animation wall and startned the next css project after the tribute in Freecodecamp, the survey form. Making some progress.
+<br>
+**Thoughts:** 
+It's been a long day.
+
+**Helpful Links / Resources:**
+* nothing new
