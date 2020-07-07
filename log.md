@@ -91,6 +91,9 @@ I am deliberately taking longer to create the survey because I don't want to jus
 
 **Helpful Links / Resources:**
 * nothing new
+<br>
+
+
 ***
 
 
@@ -107,6 +110,26 @@ Survey form still in development - worked on background and added slider.
 
 **Helpful Links / Resources:**
 * nothing new
+
+
+<br>
+
+***
+
+
+### Day 7: July 7, 2020 
+##### Reviewed CSS descendents, inheritance, specificity
+
+**Today's Progress:**
+Reviewed CSS descendents, inheritance, specificity by watching several Net Ninja CSS beginner videos.  Learned about child selectors.
+<br>
+<br>
+**Thoughts:** 
+ Hopefully this will solve some of the problems in my survey.
+
+
+**Helpful Links / Resources:**
+* [Net Ninja CSS Beginner videos on inheritance, child selectors, etc.](https://www.youtube.com/watch?v=MlJrAhGVIis&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT&index=16)
 
 
 <br>
