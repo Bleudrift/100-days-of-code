@@ -91,3 +91,22 @@ I am deliberately taking longer to create the survey because I don't want to jus
 
 **Helpful Links / Resources:**
 * nothing new
+***
+
+
+### Day 6: July 6, 2020 - 55th birthday
+##### CSurvey form continued
+
+**Today's Progress:**
+Survey form still in development - worked on background and added slider.
+<br>
+<br>
+**Thoughts:** 
+ Did a lot of googling and looking at other codepens to figure our how to do certain things... and that's okay. Actually, I think its a way of getting ahead.
+
+
+**Helpful Links / Resources:**
+* nothing new
+
+
+<br>
