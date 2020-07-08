@@ -121,11 +121,11 @@ Survey form still in development - worked on background and added slider.
 ##### Reviewed CSS descendents, inheritance, specificity
 
 **Today's Progress:**
-Reviewed CSS descendents, inheritance, specificity by watching several Net Ninja CSS beginner videos.  Learned about child selectors.
+Reviewed CSS descendents, inheritance, specificity by watching 28 Net Ninja CSS beginner videos.  Learned about child selectors.
 <br>
 <br>
 **Thoughts:** 
- Hopefully this will solve some of the problems in my survey.
+ It was very useful to review and do. Things started to become a bit clearer in terms of inheritance, descendants, specificity, etc. Hopefully this will solve some of the problems in my survey.
 
 
 **Helpful Links / Resources:**
