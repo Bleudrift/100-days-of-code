@@ -118,7 +118,7 @@ Survey form still in development - worked on background and added slider.
 
 
 ### Day 7: July 7, 2020 
-##### Reviewed CSS descendents, inheritance, specificity
+##### Reviewed CSS descendents, inheritance, specificity. Started JavaScript
 
 **Today's Progress:**
 Reviewed CSS descendents, inheritance, specificity by watching 28 Net Ninja CSS beginner videos.  Learned about child selectors.
@@ -130,6 +130,27 @@ Reviewed CSS descendents, inheritance, specificity by watching 28 Net Ninja CSS 
 
 **Helpful Links / Resources:**
 * [Net Ninja CSS Beginner videos on inheritance, child selectors, etc.](https://www.youtube.com/watch?v=MlJrAhGVIis&list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT&index=16)
+
+
+<br>
+
+
+***
+
+
+### Day 8: July 8, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Watched 14 Net Ninja videos on JavaScript - covered variables, mathemetical operators, booleans, if, else, comparison operators
+<br>
+<br>
+**Thoughts:** 
+Made sense, didn't seem that bad, but I wasn't applying it.  I did perform the same functions in VS Code as he did in the video and had to figure out why it didn't work several times -- had to delete stuff from Chrome, etc.  I really like the way Net Ninja presents and explains.
+
+
+**Helpful Links / Resources:**
+* [Net Ninja CSS Beginner video playlist for JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 
 <br>
