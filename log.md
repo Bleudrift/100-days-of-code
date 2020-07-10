@@ -173,3 +173,19 @@ Was a slow kinda day. Didn't feel like I covered a lot, but still made a wee bit
 
 
 <br>
+***
+
+
+### Day 10: July 10, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Worked through 45 FreeCodeCamp JavaScript challenges
+<br>
+<br>
+**Thoughts:** 
+Really useful to do the challenge in Freecodecamp and then to run it in the chrom dev console -- the error messages there were somehow more focused and useful in helping me target where the problem was...
+
+
+**Helpful Links / Resources:**
+* None
