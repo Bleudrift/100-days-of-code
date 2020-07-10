@@ -154,3 +154,22 @@ Made sense, didn't seem that bad, but I wasn't applying it.  I did perform the s
 
 
 <br>
+***
+
+
+### Day 9: July 9, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Watched more Net Ninja videos on JavaScript - covered logical operators, while loops, for loops, and started functions
+<br>
+<br>
+**Thoughts:** 
+Was a slow kinda day. Didn't feel like I covered a lot, but still made a wee bit of progress.  I surived to code another day.
+
+
+**Helpful Links / Resources:**
+* [Net Ninja CSS Beginner video playlist for JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+
+<br>
