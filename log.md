@@ -212,3 +212,22 @@ Continued to challenge in Freecodecamp and then to run it in the chrom dev conso
 
 **Helpful Links / Resources:**
 * None
+
+<br>
+
+***
+
+
+### Day 12: July 12, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Worked through 7 FreeCodeCamp JavaScript challenges
+<br>
+<br>
+**Thoughts:** 
+Continued to challenge in Freecodecamp and then to run it in the chrom dev console -- Couple minor things that are slowing me down are typos, missing brackets at end of if else; and most importantly, not slowing down to read the entire problem all the way through and think about it.  Saw this quote on a Quora response in the Quora code space:  “Programming is thinking not typing.”  And am starting to realize that how I think and approach problems needs to evolve.
+
+
+**Helpful Links / Resources:**
+* None
