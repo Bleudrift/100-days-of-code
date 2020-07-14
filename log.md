@@ -231,3 +231,23 @@ Continued to challenge in Freecodecamp and then to run it in the chrom dev conso
 
 **Helpful Links / Resources:**
 * None
+
+
+<br>
+
+***
+
+
+### Day 13: July 13, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #21 - #27
+<br>
+<br>
+**Thoughts:** 
+Really think the Net Ninja series - digestible bits, great examples, and get to hear the vernacular. Other than that, not much progress. Today was a yucky day.
+
+
+**Helpful Links / Resources:**
+* [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
