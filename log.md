@@ -251,3 +251,25 @@ Really think the Net Ninja series - digestible bits, great examples, and get to 
 
 **Helpful Links / Resources:**
 * [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+
+<br>
+
+***
+
+
+### Day 14: July 14, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Worked through 14 FreeCodeCamp JavaScript challenges
+<br>
+<br>
+**Thoughts:** 
+Completed 14 FreeCodeCamp JavaScript challenges & w/in striking distance of finishing basic JS. But am uncomfortable w/ competency level & need to supplement w/ examples & practice from other resources before finishing & moving on to the next series of FreeCodeCamp challenges, ES6.
+
+
+**Helpful Links / Resources:**
+* None
+
+
