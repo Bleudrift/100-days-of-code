@@ -273,3 +273,24 @@ Completed 14 FreeCodeCamp JavaScript challenges & w/in striking distance of fini
 * None
 
 
+<br>
+
+***
+
+
+### Day 15: July 15, 2020 
+##### nothing - cognitive overload - Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
+
+**Today's Progress:**
+- Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
+<br>
+<br>
+**Thoughts:** 
+Experienced cognitive overload so took a break & listened to an engaging & informative @CodeNewbie podcast Vanilla JavaScript w/Chris Ferdinandi. Definitely learning Vanilla after basic JS. Then, inexplicably, watched several JQuery tutorial
+
+
+**Helpful Links / Resources:**
+* None
+
+
+
