@@ -12,6 +12,9 @@
 2. [Odin Project - theodinproject.com](https://www.theodinproject.com/) &emsp;  
 3. [w3schools - w3schools.com](https://www.w3schools.com/) &emsp;  
 4. [Code Academy - codecademy.com](https://www.codecademy.com/) &emsp;  
+5. [HTML Dog - htmldog.com](https://htmldog.com/)
+6. [Flavioscopes.com](https://flaviocopes.com/)
+7. [Coursera Courses - Web Design, Front End, Full Stack](https://www.coursera.org/search?query=javascript&)
 
 ### CSS Tools
 1. [Gradient - CSSGradient.io](https://cssgradient.io/) &emsp; &emsp;css gradients
@@ -23,11 +26,36 @@
 1. [Nesting - Codepip.com](https://codepip.com/games/nester/) &emsp;  html nesting game 
 
 
+### JavaScript Tools
+1. [Scotch Learn JS from Scratch.io](https://scotch.io/) 
+2. [MDN web doc moz://a](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+3. [The Modern JavaScript Tutorial - javascript.info](https://javascript.info/)
+4. [Learn-JS.org](https://www.learn-js.org/)
+5. [TutorialsPoint.com](https://www.tutorialspoint.com/javascript/index.htm)
+6. [WikiBooks - JavaScipt](https://en.wikibooks.org/wiki/JavaScript/Introduction)
+7. [JavaScriptKit.com](http://www.javascriptkit.com/javatutors/index.shtml)
+8. [David Walsh JavaScript tutorials](https://davidwalsh.name/tutorials/javascript)
+9. [Coderbyte.com](https://coderbyte.com/starter-course/learn-javascript-in-one-week)
+10. [Channel 9 JavaScript Fundamentals for Absolute Beginners](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
+11. [Free Udacity JavaScript Courses](https://www.udacity.com/course/intro-to-javascript--ud803)
+12. [Free CodeAcademy.com JavaScript fundamentals](https://www.codecademy.com/learn/introduction-to-javascript)
+
+YouTube Channels 
+11. []()
+11. []()
+11. []()
+
+
+
+
+
+
 ### Challenges and Other Opportunities to Practice Programming
 1. [Exercism.io](https://exercism.io/#explore-languages/) &emsp;&emsp;  coding challenges for 50 different languages
 2. [Codewars.com](https://www.codewars.com/) &emsp;  katas for 20+ languages
 3. [ProjectEuler.net](https://projecteuler.net/) &emsp;  challenging mathematical/computer programming problems
 4. [Leetcode.com](https://leetcode.com/) &emsp; &emsp; challenges, questions, playground for 14 languages
+5. [CodeCombat.com](https://codecombat.com/home)
 
 <br>
 <br>
