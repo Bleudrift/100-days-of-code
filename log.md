@@ -9,7 +9,8 @@
 
 **Link to Work:** [Tribute Page](https://codepen.io/bleudrift/pen/vYLWKxG)
 
-**Helpful Links / Resources** [Flexbox Froggy](https://flexboxfroggy.com/)
+**Helpful Links / Resources** 
+* [Flexbox Froggy](https://flexboxfroggy.com/)
 <br>
 <br>
 ***
@@ -285,12 +286,36 @@ Completed 14 FreeCodeCamp JavaScript challenges & w/in striking distance of fini
 - Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
 <br>
 <br>
+
 **Thoughts:** 
 Experienced cognitive overload so took a break & listened to an engaging & informative @CodeNewbie podcast Vanilla JavaScript w/Chris Ferdinandi. Definitely learning Vanilla after basic JS. Then, inexplicably, watched several JQuery tutorial
 
 
 **Helpful Links / Resources:**
-* None
+* [CodeNewbie What is Vanilla JS Podcast](https://www.codenewbie.org/podcast/what-is-vanilla-js-and-how-can-it-help-you)
+* [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
+
+
+<br>
+
+***
+
+
+### Day 16: July 16, 2020 
+##### JavaScript
+
+**Today's Progress:**
+- Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #26 - #34; Completed several FreeCodeCamp JS challenges, now up to 96 / 110.
+<br>
+<br>
+
+**Thoughts:** 
+Resumed watching JS tutorials & completing FreeCodeCamp challenges. Sometimes my mind turns off for challenge scenarios it doesn't find "engaging" like sorting cards and albums -- coding problem narcolespy.  But learning how to use JS to change html, css -- so cool 
+
+
+**Helpful Links / Resources:**
+* [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 
 
