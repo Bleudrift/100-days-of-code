@@ -11,10 +11,12 @@
 
 **Helpful Links / Resources** 
 * [Flexbox Froggy](https://flexboxfroggy.com/)
-<br>
-<br>
-***
 
+
+
+<br>
+
+***
 
 
 ### Day 2: July 1, 2020
@@ -283,7 +285,7 @@ Completed 14 FreeCodeCamp JavaScript challenges & w/in striking distance of fini
 ##### nothing - cognitive overload - Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
 
 **Today's Progress:**
-- Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
+Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
 <br>
 <br>
 
@@ -306,7 +308,7 @@ Experienced cognitive overload so took a break & listened to an engaging & infor
 ##### JavaScript
 
 **Today's Progress:**
-- Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #26 - #34; Completed several FreeCodeCamp JS challenges, now up to 96 / 110.
+Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #26 - #34; Completed several FreeCodeCamp JS challenges, now up to 96 / 110.
 <br>
 <br>
 
@@ -318,4 +320,8 @@ Resumed watching JS tutorials & completing FreeCodeCamp challenges. Sometimes my
 * [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 
+
+<br>
+
+***
 
