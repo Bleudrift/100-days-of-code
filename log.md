@@ -325,3 +325,24 @@ Resumed watching JS tutorials & completing FreeCodeCamp challenges. Sometimes my
 
 ***
 
+
+### Day 17: July 17, 2020 
+##### JavaScript
+
+**Today's Progress:**
+Nothing - worked on ToolKit Curated List
+<br>
+<br>
+**Thoughts:** 
+Don't know if its the heat or friday, but all I did was work on my list.
+
+
+**Helpful Links / Resources:**
+* 
+
+
+<br>
+
+***
+
+
