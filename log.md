@@ -346,7 +346,7 @@ Don't know if its the heat or friday, but all I did was work on my list.
 
 
 ### Day 18: July 18, 2020 
-##### *CSS*
+##### *JavaScript, ES6, CSS Selector Review*
 
 **Today's Progress:**
 8 FreeCodeCamp JavaScript Challenges (103/110); ES6 (3/31), 2 Podcasts, CSS Selector Practice on CSS Diner (27/32)
