@@ -349,15 +349,17 @@ Don't know if its the heat or friday, but all I did was work on my list.
 ##### *CSS*
 
 **Today's Progress:**
-.
+8 FreeCodeCamp JavaScript Challenges (103/110); ES6 (3/31), 2 Podcasts, CSS Selector Practice on CSS Diner (27/32)
 <br>
 <br>
 **Thoughts:** 
-.
+Tried to do a lot today. Got back into JS and complete a challenge that previously made no sense. Nested loops were a bit of a hick up until I checked out The Coding Train video and the light bulb went off. Hit recursion, check out the FreeCodeCamp intro link below -- it was much clearer in explaining than the content in the challenge. But, it may require subconscious percolation to really stick. Practiced CSS selectors in CSS Diner -- gamification is a useful tool.  It wasn't evident where the answers were for some of the practice items until I googled it. Overall a productive day.
 
 
 **Helpful Links / Resources:**
 * [CodeNewbie Podcast - Ali Spittel Developing Yourself and Your Code](https://www.codenewbie.org/podcast/how-do-you-develop-yourself-and-your-code-while-fighting-off-trolls)
 * [CodeNewbie Podcast - Arianna Tobin on Ageism in Tech](https://www.codenewbie.org/podcast/what-does-ageism-in-tech-look-like)
 * [CSS Diner](https://flukeout.github.io/)
+* [The CodingTrain Nested Loops YouTube Video](https://www.youtube.com/watch?v=H7frvcAHXps&vl=en)
+* [FreeCodeCamp Quick Intro to Recursion](https://www.freecodecamp.org/news/quick-intro-to-recursion/)
 
