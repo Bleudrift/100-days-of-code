@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: June 30, 2020
-##### HTML and CSS
+##### *HTML and CSS*
 
 **Today's Progress:** Finished Tribute Page
 
@@ -20,7 +20,7 @@
 
 
 ### Day 2: July 1, 2020
-##### Git, Github, Visual Studio Code, Some CSS
+##### *Git, Github, Visual Studio Code, Some CSS*
 
 **Today's Progress**: Watched several videos on Git and Github, and one on VSC.  Tried to set up Git on Mac. 
 
@@ -33,7 +33,7 @@
 
 
 ### Day 3: July 2, 2020
-##### CSS Flexbox, CSS Grid
+##### *CSS Flexbox, CSS Grid*
 
 **Today's Progress:**
 Worked through Flexbox Froggy and the CSS Games. 
@@ -63,7 +63,7 @@ Did well on all of them except for this problem which I could not figure out:
 
 
 ### Day 4: July 3, 2020
-##### CSS Animation, Survey form started
+##### *CSS Animation, Survey form started*
 
 **Today's Progress:**
 Tried to code some graphics and animation on my own by looking at examples on Codepen. That didn't work too well, so I went back to Freecodecamp to follow the instructions and encountered some difficulty with that as well.  So, I stopped banging my head against the animation wall and started the next css project, the survey form, after finishing the tribute page project in Freecodecamp. Making some progress.
@@ -83,7 +83,7 @@ It's been a long day.
 
 
 ### Day 5: July 5, 2020
-##### Survey form continued
+##### *Survey form continued*
 
 **Today's Progress:**
 Continuing to work on the survey form.  
@@ -101,7 +101,7 @@ I am deliberately taking longer to create the survey because I don't want to jus
 
 
 ### Day 6: July 6, 2020 - 55th birthday
-##### CSurvey form continued
+##### *CSurvey form continued*
 
 **Today's Progress:**
 Survey form still in development - worked on background and added slider.
@@ -121,7 +121,7 @@ Survey form still in development - worked on background and added slider.
 
 
 ### Day 7: July 7, 2020 
-##### Reviewed CSS descendents, inheritance, specificity. Started JavaScript
+##### *Reviewed CSS descendents, inheritance, specificity. Started JavaScript*
 
 **Today's Progress:**
 Reviewed CSS descendents, inheritance, specificity by watching 28 Net Ninja CSS beginner videos.  Learned about child selectors.
@@ -142,7 +142,7 @@ Reviewed CSS descendents, inheritance, specificity by watching 28 Net Ninja CSS 
 
 
 ### Day 8: July 8, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Watched 14 Net Ninja videos on JavaScript - covered variables, mathemetical operators, booleans, if, else, comparison operators
@@ -162,7 +162,7 @@ Made sense, didn't seem that bad, but I wasn't applying it.  I did perform the s
 
 
 ### Day 9: July 9, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Watched more Net Ninja videos on JavaScript - covered logical operators, while loops, for loops, and started functions
@@ -182,7 +182,7 @@ Was a slow kinda day. Didn't feel like I covered a lot, but still made a wee bit
 
 
 ### Day 10: July 10, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Worked through 45 FreeCodeCamp JavaScript challenges
@@ -203,7 +203,7 @@ Really useful to do the challenge in Freecodecamp and then to run it in the chro
 
 
 ### Day 11: July 11, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Worked through 20 FreeCodeCamp JavaScript challenges
@@ -222,7 +222,7 @@ Continued to challenge in Freecodecamp and then to run it in the chrom dev conso
 
 
 ### Day 12: July 12, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Worked through 7 FreeCodeCamp JavaScript challenges
@@ -242,7 +242,7 @@ Continued to challenge in Freecodecamp and then to run it in the chrom dev conso
 
 
 ### Day 13: July 13, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #21 - #27
@@ -262,7 +262,7 @@ Really think the Net Ninja series - digestible bits, great examples, and get to 
 
 
 ### Day 14: July 14, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Worked through 14 FreeCodeCamp JavaScript challenges
@@ -282,7 +282,7 @@ Completed 14 FreeCodeCamp JavaScript challenges & w/in striking distance of fini
 
 
 ### Day 15: July 15, 2020 
-##### nothing - cognitive overload - Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
+##### *nothing - cognitive overload - Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja*
 
 **Today's Progress:**
 Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
@@ -291,7 +291,6 @@ Vanilla JS Podcast and JQuery YouTube Videos by Net Ninja
 
 **Thoughts:** 
 Experienced cognitive overload so took a break & listened to an engaging & informative @CodeNewbie podcast Vanilla JavaScript w/Chris Ferdinandi. Definitely learning Vanilla after basic JS. Then, inexplicably, watched several JQuery tutorial
-
 
 **Helpful Links / Resources:**
 * [CodeNewbie What is Vanilla JS Podcast](https://www.codenewbie.org/podcast/what-is-vanilla-js-and-how-can-it-help-you)
@@ -305,7 +304,7 @@ Experienced cognitive overload so took a break & listened to an engaging & infor
 
 
 ### Day 16: July 16, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
 Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #26 - #34; Completed several FreeCodeCamp JS challenges, now up to 96 / 110.
@@ -314,7 +313,6 @@ Watched Net Ninja JavaScript Tutorial for Beginners - Episodes #26 - #34; Comple
 
 **Thoughts:** 
 Resumed watching JS tutorials & completing FreeCodeCamp challenges. Sometimes my mind turns off for challenge scenarios it doesn't find "engaging" like sorting cards and albums -- coding problem narcolespy.  But learning how to use JS to change html, css -- so cool 
-
 
 **Helpful Links / Resources:**
 * [The Net Ninja JavaScript Tutorial for Beginners ](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
@@ -327,10 +325,10 @@ Resumed watching JS tutorials & completing FreeCodeCamp challenges. Sometimes my
 
 
 ### Day 17: July 17, 2020 
-##### JavaScript
+##### *JavaScript*
 
 **Today's Progress:**
-Nothing - worked on ToolKit Curated List
+Nothing - worked on [ToolKit Curated List](https://github.com/GabeKelemen/100-days-of-code/blob/master/Toolkit.md)
 <br>
 <br>
 **Thoughts:** 
@@ -338,11 +336,28 @@ Don't know if its the heat or friday, but all I did was work on my list.
 
 
 **Helpful Links / Resources:**
-* 
+* [ToolKit Curated List](https://github.com/GabeKelemen/100-days-of-code/blob/master/Toolkit.md)
 
 
 <br>
 
+
 ***
 
+
+### Day 18: July 18, 2020 
+##### *CSS*
+
+**Today's Progress:**
+.
+<br>
+<br>
+**Thoughts:** 
+.
+
+
+**Helpful Links / Resources:**
+* [CodeNewbie Podcast - Ali Spittel Developing Yourself and Your Code](https://www.codenewbie.org/podcast/how-do-you-develop-yourself-and-your-code-while-fighting-off-trolls)
+* [CodeNewbie Podcast - Arianna Tobin on Ageism in Tech](https://www.codenewbie.org/podcast/what-does-ageism-in-tech-look-like)
+* [CSS Diner](https://flukeout.github.io/)
 
