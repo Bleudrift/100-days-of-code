@@ -11,7 +11,7 @@
 
 ## The Learning Process
 
-### Courses and Programs 
+### Courses, Tutorials, and Programs 
 1. [FreeCodeCamp - freecodecamp.org](https://www.freecodecamp.org/) &emsp; &emsp; 
 2. [Odin Project - theodinproject.com](https://www.theodinproject.com/) &emsp;  
 3. [w3schools - w3schools.com](https://www.w3schools.com/) &emsp;  
@@ -19,6 +19,9 @@
 5. [HTML Dog - htmldog.com](https://htmldog.com/)
 6. [Flavioscopes.com](https://flaviocopes.com/)
 7. [Coursera Courses - Web Design, Front End, Full Stack](https://www.coursera.org/search?query=javascript&)
+8. [Learn to Code HTML & CSS by Shay Howe](https://learn.shayhowe.com/html-css/)
+9. [MDN web docs moz://lla - Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+10. [Stanford CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A)
 
 
 
@@ -36,6 +39,13 @@
 2. [Box-shadow - CSSmatic.com](https://cssmatic.com/box-shadow) &emsp; box-shadow tool 
 3. [Flexbox - FlexboxFroggy.com](https://flexboxfroggy.com/) &emsp; flexbox game with 24 levels
 4. [CSS grid - Codepip.com](https://codepip.com/games/grid-garden/) &emsp; &emsp; css grid game 
+5. [CanIUse.com](https://caniuse.com/) &emsp; provides up-to-date browser support tables for support of front-end web tech
+6. [CSS-tricks.com](https://css-tricks.com/)
+7. [JSFiddle - Code Playground](https://jsfiddle.net/)  &emsp; boilerplates for CSS Grid,SCSS, PostCSS, React, jQuery, and more
+8. [W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
+
+
+<br>
 
 #### CSS Articles
 1. [Web.Dev - Ten Modern Layouts in One Line of CSS](https://web.dev/one-line-layouts/)
@@ -44,15 +54,13 @@
 4. [CSS Tricks for Validating Layouts](https://livecodestream.dev/post/2020-06-09-css-tricks-for-validating-layouts/)
 
 
-
-
-
 <br>
 
 ***
 
 ### HTML Tools
 1. [Nesting - Codepip.com](https://codepip.com/games/nester/) &emsp;  html nesting game 
+2. [W3C Markup Validation Service](https://validator.w3.org/)
 
 
 
@@ -61,7 +69,7 @@
 
 ***
 
-### JavaScript Courses
+### JavaScript Tutorials and Courses
 1. [Scotch Learn JS from Scratch.io](https://scotch.io/) 
 2. [MDN web doc moz://a](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 3. [The Modern JavaScript Tutorial - javascript.info](https://javascript.info/)
@@ -120,8 +128,8 @@
 
 
 ### Git and GitHub
-1.[Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
-2.[Git and GitHub Crash Course - FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-crash-course/)
+1. [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
+2. [Git and GitHub Crash Course - FreeCodeCamp](https://www.freecodecamp.org/news/git-and-github-crash-course/)
 
 
 <br>
@@ -129,13 +137,17 @@
 ***
 
 
-### Challenges and Other Opportunities to Practice Programming
+### Challenges, Playgrounds, and Other Opportunities to Practice Programming
 1. [Exercism.io](https://exercism.io/#explore-languages/) &emsp;&emsp;  coding challenges for 50 different languages
 2. [Codewars.com](https://www.codewars.com/) &emsp;  katas for 20+ languages
 3. [ProjectEuler.net](https://projecteuler.net/) &emsp;  challenging mathematical/computer programming problems
 4. [Leetcode.com](https://leetcode.com/) &emsp; &emsp; challenges, questions, playground for 14 languages
 5. [CodeCombat.com](https://codecombat.com/home)
 6. [Florin Pop App Ideas to Improve Coding Skills](https://github.com/florinpop17/app-ideas) &emsp; list of ideas from beginner to advanced
+7. [JSFiddle - Code Playground](https://jsfiddle.net/)  &emsp; boilerplates for CSS Grid,SCSS, PostCSS, React, jQuery, and more
+8. [CodePen.io](https://codepen.io/)
+9. [5 Front-End Challenges to Code 2019 by Indrek Lasn](https://medium.com/better-programming/here-are-5-front-end-challenges-to-code-dec-2019-edition-7d691c4b023)
+
 
 <br>
 <br>
@@ -196,6 +208,16 @@
 
 
 
+
+<br>
+
+***
+
+### Developer Websites
+1. [ClearlyDecoded.com by Yaakov Chaikin](https://clearlydecoded.com/)
+
+
+
 <br>
 
 ***
@@ -207,10 +229,10 @@
 4. [ShopTalk Show Podcast](https://shoptalkshow.com/)
 5. [GetWIRED](https://podcasts.apple.com/us/podcast/id1516843565)
 6. [HTML All the Things Podcast](https://www.htmlallthethings.com/hub/Podcast)
-7. [newline with Nate Murray and Amerial Wattenberger](https://podcasts.apple.com/us/podcast/newline/id1509124255)&emsp;   for experienced developers,  discussions on new tech, career
+7. [newline with Nate Murray and Amerial Wattenberger](https://podcasts.apple.com/us/podcast/newline/id1509124255)&emsp; for experienced developers, discussions on new tech, career
 8. [Syntax.fm with Wes Bos and Scott Tolinski](https://syntax.fm/)
-9. [Command_Line Heroes from Red Hat](https://www.redhat.com/en/command-line-heroes) &emsp;  true tales of how developers, programmers, hackers, geeks, and open source rebels are revolutionizing the technology landscape
-10. [Developer Tea Podcast](https://developertea.simplecast.com/episodes) &emsp; episodes that help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence
+9. [Command_Line Heroes from Red Hat](https://www.redhat.com/en/command-line-heroes) &emsp;  true tales of developers, programmers, hackers, geeks, open source rebels revolutionizing tech landscape
+10. [Developer Tea Podcast](https://developertea.simplecast.com/episodes) &emsp; episodes that help developers connect to their purpose and excel so  they can positively impact others
 
 
 
@@ -223,11 +245,11 @@
 1. [Web Designer Weekly](https://webdesignerweekly.com/) &emsp; resources, tips, advice and how to become a better, more in-demand web designer
 2. [Catalin's Newsletter](https://catalin.substack.com/) &emsp;   tech subjects
 3. [Mads Brodt Newsletter](https://madsbrodt.com/) &emsp;   front-end development and navigating a tech career
-4. [Jame Q Quick Newsletter](https://www.jamesqquick.com/newsletter/) &emsp;   web development, design, and developer tools
+4. [Jame Q Quick Newsletter](https://www.jamesqquick.com/newsletter/) &emsp;  web development, design, and developer tools
 [Catalin's Newsletter](https://catalin.substack.com/) 
 5. [Awesome Things for Awesome People](https://awesome-things-for-awesome-people.netlify.app/) 
 6. [TLDR Newsletter ](www.tldrnewsletter.com)&emsp;   byte sized news featuring most interesting stories in tech, science, coding
-7. [MorningCupofCoding.com/](https://morningcupofcoding.com/)&emsp; daily programming newsletter featuring long form technical articles of all fields of software engineering.
+7. [MorningCupofCoding.com/](https://morningcupofcoding.com/)&emsp; daily newsletter w/long form technical articles from all software engineering fields.
 8. [Go Make Things Newsletter by Chris Ferdinandi](https://gomakethings.com/)
 
 
@@ -238,12 +260,16 @@
 ***
 
    
-### Developer Communities, Job Prep and Search
-1. [HackerEarth.com](https://Hackerearth.com/) &emsp;   practice, hackathons, interview prep, company connections  
-2. [HackerRank.com](https://www.hackerrank.com/) &emsp;   practice, interview prep, company connections  
-3. [InterviewCake.com](https://www.interviewcake.com/) &emsp;   practice, interview prep, company connections  
-4. [StudyWebDevelopment.com](https://studywebdevelopment.com/) &emsp;   assorted resources include how to freelance and get clients  
-5. [Google Career Certificates - coming soon](https://grow.google/certificates/) &emsp;  for UX, IT Support, Data Analysis
+### Developer Communities, Job Prep, and Job Search
+1. [Stack Overflow](https://stackoverflow.com/)
+2. [HackerEarth.com](https://Hackerearth.com/) &emsp;   practice, hackathons, interview prep, company connections  
+3. [HackerRank.com](https://www.hackerrank.com/) &emsp;   practice, interview prep, company connections  
+4. [InterviewCake.com](https://www.interviewcake.com/) &emsp;   practice, interview prep, company connections  
+5. [StudyWebDevelopment.com](https://studywebdevelopment.com/) &emsp;   assorted resources include how to freelance and get clients  
+6. [Google Career Certificates - coming soon](https://grow.google/certificates/) &emsp;  for UX, IT Support, Data Analysis
+7. [CodeUp UK](http://codeup.org.uk/) &emsp;  supports midlife and older career changers who want to learn how to code - UK based
+8. [WomenWhoCode.com](https://www.womenwhocode.com/)
+9. [Curated List: 21 Places Where Women Can Learn to Code by Laurence Bradford](https://learntocodewith.me/posts/13-places-women-learn-code/)
 
 
 
@@ -262,12 +288,40 @@
 7. [23 Alternative Career Paths Developers Can Grow Into by FreeCodeCamp](https://www.freecodecamp.org/news/alternative-career-paths/)
 8. [How to Create a GitHub Profile README by Monica Powell](https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj)
 9. [LinkedIn Learning - Become a Software Developer Certifications](https://www.linkedin.com/learning/paths/become-a-software-developer)
+10. [Github Frontend Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/) &emsp;  Almost complete answers to "Front-end Job Interview Questions" 
+11. [](https://www.breakinto.tech/blog/2015/9/8/the-best-non-technical-roles-in-tech)
 
 
 <br>
 <br>
 
 
+
+<br>
+
+***
+
+
+
+#### Job Sites
+1. [Dice.com](https://www.dice.com/#) &emsp;
+2. [Flexjobs.com](https://https://www.flexjobs.com/)
+3. [Glassdoor.com](https://www.glassdoor.com/Reviews/index.htm)  &emsp; best for workplace and job reviews and info on salaries
+4. [RemoteOk.io](https://remoteok.io/)
+5. [Jobspresso.com](https://jobspresso.co/)  &emsp; curated remote tech job search
+6. [TheMuse.com](https://www.themuse.com/)
+7. [The Angel List](https://angel.co/jobs) &emsp;  start up jobs
+8. [Vettery.com](https://www.vettery.com/)  &emsp;   tech, sales, finance
+9. [Pangian.com](https://pangian.com/)  &emsp; global remote search
+9. [WeWorkRemotely.com](https://weworkremotely.com/)
+10. [StackOverflow Jobs](https://stackoverflow.com/jobs/get-started)
+11. [GitHub Jobs](https://jobs.github.com/positions?description=&location=Remote)
+12. [AuthenticJobs.com](https://authenticjobs.com/) &emsp; for designers, developers, creative pros
+13. [Landing.jobs](https://landing.jobs/)  &emsp; curated tech
+14. [PowertoFly.com](https://powertofly.com/) &emsp; curated for women in tech to find remote and work-from-home jobs
+15. [SkillCrush List of Resources for Finding Remote Tech Jobs](https://skillcrush.com/blog/sites-finding-remote-work/) &emsp; top 25+ remote job search sites
+16. [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
+17. [Humana Studio H from TheHiveCreative.com](http://thehivecreative.com/humanastudio-h.com/) Humana Studio H job listings for data scientists, software engineers
 
 <br>
 
@@ -327,6 +381,10 @@
 1. [Blogging platform for developers - Hashnode.com](https://hashnode.com/) &emsp;   free personal blog for developer content creation
 2. [Terms of Service rating tool - TOSDR.org](https://tosdr.org/) &emsp;   user rights initiative that rates and labels website terms & privacy policies from very good to very bad.
 3. [Gatsby.js Tutorial](https://www.gatsbyjs.org/tutorial/)
+4. [Tomato-timer.com](https://tomato-timer.com/)
+5. [RubyMonk.com - free Ruby tutorial](https://rubymonk.com/)
+6. [Stanford Uni - Developing ioS with Swift - only on iTunes](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8)
+
 
 
 
