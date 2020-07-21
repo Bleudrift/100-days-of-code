@@ -1,4 +1,4 @@
-# Toolkit for the First #100DaysOfCode
+# Toolkit for the First #100DaysOfCode and Beyond
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 <br>
@@ -41,8 +41,9 @@
 4. [CSS grid - Codepip.com](https://codepip.com/games/grid-garden/) &emsp; &emsp; css grid game 
 5. [CanIUse.com](https://caniuse.com/) &emsp; provides up-to-date browser support tables for support of front-end web tech
 6. [CSS-tricks.com](https://css-tricks.com/)
-7. [JSFiddle - Code Playground](https://jsfiddle.net/)  &emsp; boilerplates for CSS Grid,SCSS, PostCSS, React, jQuery, and more
+7. [JSFiddle - Code Playground](https://jsfiddle.net/)  &emsp; boilerplates for CSS Grid, SCSS, PostCSS, React, jQuery, and more
 8. [W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
+9. [CSSReference.io](https://cssreference.io/) &emsp; free visual guide to CSS 
 
 
 <br>
@@ -205,6 +206,7 @@
 19. [James R Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 20. [Flavio](https://www.youtube.com/user/copesc/featured) &emsp; &emsp; &emsp; &emsp;javascript
 21. [The Codex](https://www.youtube.com/channel/UCDD0bZ4NS6AayT-VLMmILHg)
+22. [Traversy Media](https://www.youtube.com/c/TraversyMedia/featured)
 
 
 
@@ -322,6 +324,7 @@
 15. [SkillCrush List of Resources for Finding Remote Tech Jobs](https://skillcrush.com/blog/sites-finding-remote-work/) &emsp; top 25+ remote job search sites
 16. [Women Who Code Jobs](https://www.womenwhocode.com/jobs)
 17. [Humana Studio H from TheHiveCreative.com](http://thehivecreative.com/humanastudio-h.com/) Humana Studio H job listings for data scientists, software engineers
+18. [DiversifyTech.com](https://www.diversifytech.co/job-board/)
 
 <br>
 
@@ -384,6 +387,7 @@
 4. [Tomato-timer.com](https://tomato-timer.com/)
 5. [RubyMonk.com - free Ruby tutorial](https://rubymonk.com/)
 6. [Stanford Uni - Developing ioS with Swift - only on iTunes](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120?ign-mpt=uo%3D8)
+7. [GetMimo.com](https://getmimo.com/) &emsp;  app to learn coding
 
 
 
