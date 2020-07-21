@@ -392,3 +392,29 @@ Freecodecamp finished Object Oriented Programming - came very easily, just made 
 **Helpful Links / Resources:**
 * None
 
+
+<br>
+
+
+***
+
+
+### Day 20: July 21, 2020 
+##### *ES6, Object Oriented Programming*
+
+**Today's Progress:**
+something
+<br>
+<br>
+**Thoughts:** 
+something
+
+**Helpful Links / Resources:**
+* [Web Development In 2020 - A Practical Guide by Traversy Media](https://www.youtube.com/watch?time_continue=164&v=0pThnRneDjw)
+* [Web Dev Tech Mindmap by GabeK](https://coggle.it/diagram/XxcGX8ZTxnzqhpaS/t/-)
+
+
+
+
+
+
