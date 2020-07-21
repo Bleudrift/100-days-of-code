@@ -363,3 +363,32 @@ Tried to do a lot today. Got back into JS and complete a challenge that previous
 * [The CodingTrain Nested Loops YouTube Video](https://www.youtube.com/watch?v=H7frvcAHXps&vl=en)
 * [FreeCodeCamp Quick Intro to Recursion](https://www.freecodecamp.org/news/quick-intro-to-recursion/)
 
+
+
+
+<br>
+
+
+***
+### Rest Day: July 19, 2020 
+
+<br>
+
+
+***
+
+
+### Day 19: July 20, 2020 
+##### *ES6, Object Oriented Programming*
+
+**Today's Progress:**
+5 ES6 (8/31), 26 Object Oriented Programming (26/26)
+<br>
+<br>
+**Thoughts:** 
+Freecodecamp finished Object Oriented Programming - came very easily, just made a lot of sense.
+
+
+**Helpful Links / Resources:**
+* None
+
