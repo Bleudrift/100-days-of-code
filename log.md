@@ -403,7 +403,7 @@ Freecodecamp finished Object Oriented Programming - came very easily, just made 
 ##### *ES6, Object Oriented Programming*
 
 **Today's Progress:**
-something
+Didn't do a lot of actual coding, but learned about all the paths and how technologies are related by watching Traversy Media's video on Web Dev for 2020.  Used Coggle to mind map the info. 
 <br>
 <br>
 **Thoughts:** 
@@ -415,6 +415,36 @@ something
 
 
 
+
+<br>
+
+
+***
+### Rest Day: July 22, 2020  - Needed a break
+
+<br>
+
+
+***
+
+### Day 21: July 23, 2020 
+##### *CSS*
+
+**Today's Progress:**
+something
+<br>
+<br>
+**Thoughts:** 
+something
+
+**Helpful Links / Resources:**
+* [Single Div Drawing with CSS](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/)
+* []()
+
+
+
+
+<br>
 
 
 
