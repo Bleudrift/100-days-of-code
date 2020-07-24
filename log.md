@@ -400,14 +400,15 @@ Freecodecamp finished Object Oriented Programming - came very easily, just made 
 
 
 ### Day 20: July 21, 2020 
-##### *ES6, Object Oriented Programming*
+##### *Web Tech 2020*
 
 **Today's Progress:**
-Didn't do a lot of actual coding, but learned about all the paths and how technologies are related by watching Traversy Media's video on Web Dev for 2020.  Used Coggle to mind map the info. 
+Web Technologies and Career Paths
+
 <br>
 <br>
 **Thoughts:** 
-something
+Didn't do a lot of actual coding, but learned about all the paths and how technologies are related by watching Traversy Media's video on Web Dev for 2020.  Used Coggle to mind map the info. 
 
 **Helpful Links / Resources:**
 * [Web Development In 2020 - A Practical Guide by Traversy Media](https://www.youtube.com/watch?time_continue=164&v=0pThnRneDjw)
@@ -431,15 +432,15 @@ something
 ##### *CSS*
 
 **Today's Progress:**
-something
+CSS Survey Project
 <br>
 <br>
 **Thoughts:** 
-something
+Worked on the survey for about an hour.  Everyone, self included, is running on fumes and stir craziness.  Need a change of venue to reboot and refresh.
 
 **Helpful Links / Resources:**
 * [Single Div Drawing with CSS](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/)
-* []()
+
 
 
 
